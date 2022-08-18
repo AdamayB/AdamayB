@@ -32,4 +32,8 @@ I am a Robotics and Deep Learning enthusiast.
 </div>
 
 
+
+
+<p>
 <img src="https://komarev.com/ghpvc/?username=AdamayB&style=flat-square&color=blue" alt=""/>
+</p>
