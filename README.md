@@ -13,7 +13,6 @@ I am a Robotics and Machine Learning enthusiast.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamayB&layout=compact&theme=chartreuse-dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdamayB)](https://github.com/AdamayB/github-profile-trophy)
 
 
 <div>
