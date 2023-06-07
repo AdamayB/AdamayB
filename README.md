@@ -2,9 +2,11 @@
 I am an Electronics and Computer Engineering student from India. 
 I am a Robotics and Machine Learning enthusiast.
 <br>
-- 🌱 I’m currently learning Machine Learning, TensorFlow, Arduino, OpenCV
+- 🌱 I’m currently learning TensorFlow, Keras
+- I am currently working on Recommendation Systems and NLP
 - 📫 How to reach me: adamaybhardwaj@gmail.com
 - 😄 Pronouns: He/Him
+- I need help with Deployment of Models
 </br>
 
 
