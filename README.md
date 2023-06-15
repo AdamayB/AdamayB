@@ -1,8 +1,8 @@
 ### Hello There! 👋
 I am an Electronics and Computer Engineering student from India. 
-I am a Robotics and Machine Learning enthusiast.
+I am an aspiring ML Engineer.
 <br>
-- 🌱 I’m currently learning TensorFlow, Keras
+- 🌱 I’m currently learning TensorFlow, Keras, and ANNs
 - I am currently working on Recommendation Systems and NLP
 - 📫 How to reach me: adamaybhardwaj@gmail.com
 - 😄 Pronouns: He/Him
