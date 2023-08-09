@@ -1,3 +1,4 @@
+![](https://github.com/AdamayB/AdamayB/blob/main/hellothere.webp)
 ### Hello There! 👋
 I am an Electronics and Computer Engineering student from India. 
 I am an aspiring ML Engineer.
