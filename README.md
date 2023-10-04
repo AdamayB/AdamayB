@@ -10,7 +10,7 @@ I am an aspiring ML Engineer.
 - I need help with integrating my models with a cool professional UI.
 </br>
 
-
+[![An image of @adamayb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adamayb)](https://holopin.io/@adamayb)
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=AdamayB&theme=chartreuse-dark&show_icons=true&count_private=true)-->
 
 
