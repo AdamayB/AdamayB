@@ -5,7 +5,6 @@ I am an aspiring ML Engineer.
 <br>
 - 🌱 I’m currently learning TensorFlow, Keras, and ANNs
 - I am currently working on LLMs.
-- 📫 How to reach me: adamaybhardwaj@gmail.com
 - 😄 Pronouns: He/Him
 - I need help with integrating my models with a cool professional UI.
 </br>
